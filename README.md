@@ -1,68 +1,28 @@
 # 💫 About Me:
-I'm an IT professional with a Bachelor's degree in Computer Science and a Specialized Technician Diploma in Digital Infrastructure – Systems & Networks.<br><br>🖥️ Experienced in IT Support (N1/N2) and Windows Server administration.<br>🌐 Knowledge of Networking, Active Directory, DNS, DHCP, GPO, and Linux administration.<br>☁️ Interested in Cloud Computing, Infrastructure as Code, and Cloud Infrastructure.<br>🖥️ Hands-on experience with Proxmox VE, VMware ESXi, Hyper-V, and QEMU/KVM.<br>⚙️ Working with Bash, Python, Ansible, and Cloud-Init for infrastructure automation.<br>💻 Backend development experience with Java, Spring Boot, and REST APIs.<br>🚀 Currently building practical projects in Virtualization, Cloud Computing, and DevOps.<br>🎯 Aspiring Cloud Engineer / Cloud Architect.<br><br>
-
+I'm an IT professional with a Bachelor's degree in Computer Science and a Specialized Technician Diploma in Digital Infrastructure – Systems & Networks.<br><br>
+🖥️ Experienced in IT Support (N1/N2) and Windows Server administration.<br>
+🌐 Knowledge of Networking, Active Directory, DNS, DHCP, GPO, and Linux administration.<br>
+☁️ Interested in Cloud Computing, Infrastructure as Code, and Cloud Infrastructure.<br>
+🖥️ Hands-on experience with Proxmox VE, VMware ESXi, Hyper-V, and QEMU/KVM.<br>
+⚙️ Working with Bash, Python, Ansible, and Cloud-Init for infrastructure automation.<br>
+💻 Backend development experience with Java, Spring Boot, and REST APIs.<br>
+🚀 Currently building practical projects in Virtualization, Cloud Computing, and DevOps.<br>
+🎯 Aspiring Cloud Engineer / Cloud Architect.<br><br>
 
 ## 🌐 Socials:
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-zouitane) [!\[YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IT-Darija) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-zouitane) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IT-Darija)
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge) ![Routers](https://img.shields.io/badge/Routers-34495E?style=for-the-badge) ![Switches](https://img.shields.io/badge/Switches-2C3E50?style=for-the-badge) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge) ![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge) ![DHCP](https://img.shields.io/badge/DHCP-00897B?style=for-the-badge) ![VLAN](https://img.shields.io/badge/VLAN-6A5ACD?style=for-the-badge) ![VPN](https://img.shields.io/badge/VPN-2E8B57?style=for-the-badge)
 
-### 🌐 Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Computer_Networking-00599C?style=for-the-badge)
-![Routing](https://img.shields.io/badge/Routing-2C3E50?style=for-the-badge)
-![Switching](https://img.shields.io/badge/Switching-34495E?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge)
-![DHCP](https://img.shields.io/badge/DHCP-00897B?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-6A5ACD?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-2E8B57?style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=azouitane&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=azouitane&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=azouitane&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ☁️ Virtualization & Cloud
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge)
-![KVM](https://img.shields.io/badge/KVM-00599C?style=for-the-badge)
-![Cloud-Init](https://img.shields.io/badge/Cloud--Init-0089D6?style=for-the-badge)
+---
+[![](https://komarev.com/ghpvc/?username=azouitane&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### ⚙️ DevOps & Automation
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 💻 Programming & Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🌐 Web Servers & Tools
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
