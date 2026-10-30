@@ -1,3 +1,10 @@
+# 💫 About Me:
+I'm an IT professional with a Bachelor's degree in Computer Science and a Specialized Technician Diploma in Digital Infrastructure – Systems & Networks.<br><br>🖥️ Experienced in IT Support (N1/N2) and Windows Server administration.<br>🌐 Knowledge of Networking, Active Directory, DNS, DHCP, GPO, and Linux administration.<br>☁️ Interested in Cloud Computing, Infrastructure as Code, and Cloud Infrastructure.<br>🖥️ Hands-on experience with Proxmox VE, VMware ESXi, Hyper-V, and QEMU/KVM.<br>⚙️ Working with Bash, Python, Ansible, and Cloud-Init for infrastructure automation.<br>💻 Backend development experience with Java, Spring Boot, and REST APIs.<br>🚀 Currently building practical projects in Virtualization, Cloud Computing, and DevOps.<br>🎯 Aspiring Cloud Engineer / Cloud Architect.<br><br>
+
+
+## 🌐 Socials:
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-zouitane) [!\[YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IT-Darija) 
+
 # 💻 Tech Stack
 
 ### 🐧 Operating Systems
